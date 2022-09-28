@@ -15,6 +15,10 @@ class Employee {
 }
 
 // create Employee class object
-let employee = new Employee(100, "Ramesh", "Fadatare");
+let employee = new Employee(
+  100,
+  "Ramesh",
+  "Falkgrhfeorgherilouughreopighjeorighjoeirrjgoeirjgoe;rigjoerjgop;eirjg;eopirgjoe;ridatare"
+);
 console.log(employee);
 console.log(employee.getFullName());

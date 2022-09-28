@@ -1,3 +1,10 @@
+## [1.7.4](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.3...v1.7.4) (2022-09-28)
+
+
+### Bug Fixes
+
+* Aniket D Giri is ([35da724](https://github.com/ANKDGIRI777/mypackage/commit/35da7245d981a4aa35ab336fcb0f245c3af53701))
+
 ## [1.7.3](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.2...v1.7.3) (2022-09-28)
 
 

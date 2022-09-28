@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.6.0...v1.7.0) (2022-09-28)
+
+
+### Features
+
+* Aniket D Giri ([6c051cb](https://github.com/ANKDGIRI777/mypackage/commit/6c051cbd1f3bccc7e13d41533b2a247955b5d45a))
+* Aniket D Giri is ([ace16ad](https://github.com/ANKDGIRI777/mypackage/commit/ace16ad070dfe9b7d2f921086727a9d4a667ed8e))
+
 # [1.6.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.5.1...v1.6.0) (2022-09-28)
 
 

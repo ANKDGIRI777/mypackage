@@ -18,7 +18,7 @@ class Employee {
 let employee = new Employee(
   100,
   "Rghdrhretherhrhrthrthrjrtjerttjrthrthrthrthrthrethrtehrthrethrthrtamesh",
-  "Falkgrhfeorgherilouughreopighjeorighjoeirrjgoeirjgoe;rigjoerjgop;eirjg;eopirgjoe;ridatare"
+  "Falkgrhfeorgherilouughreopighwerwerjeorighjoeirrjgoeirjgoe;rigjoerjgop;eirjg;eopirgjoe;ridatare"
 );
 console.log(employee);
 console.log(employee.getFullName());

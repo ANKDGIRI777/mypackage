@@ -12,5 +12,3 @@ class UserAccount {
     this.id = id;
   }
 }
-
-const user: User = new UserAccount("Murpasdashy", 1);

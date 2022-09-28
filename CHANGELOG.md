@@ -1,3 +1,12 @@
+## [1.7.2](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.1...v1.7.2) (2022-09-28)
+
+
+### Bug Fixes
+
+* Aniket D Giri is ([bef8252](https://github.com/ANKDGIRI777/mypackage/commit/bef8252e1f3f7a8afcb7245105bc1549915fbf15))
+* Aniket D Giri is ([f6b0a39](https://github.com/ANKDGIRI777/mypackage/commit/f6b0a390fb439b846da776e7223c633942e5a63e))
+* Aniket D Giri is ([ffb6371](https://github.com/ANKDGIRI777/mypackage/commit/ffb637113f71c905a16e860a7e1270f1cfc5b06d))
+
 ## [1.7.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.0...v1.7.1) (2022-09-28)
 
 

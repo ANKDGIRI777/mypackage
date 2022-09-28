@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.5.1...v1.6.0) (2022-09-28)
+
+
+### Features
+
+* Aniket ([42e34d6](https://github.com/ANKDGIRI777/mypackage/commit/42e34d6180e493613c361b31c1f33a765346a146))
+* Aniket ([561c5a4](https://github.com/ANKDGIRI777/mypackage/commit/561c5a472837c0426cedf0da4af8fc7d2c62442c))
+
 ## [1.5.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.5.0...v1.5.1) (2022-09-28)
 
 

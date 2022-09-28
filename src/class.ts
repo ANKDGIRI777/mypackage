@@ -17,7 +17,7 @@ class Employee {
 // create Employee class object
 let employee = new Employee(
   100,
-  "Rghdrhretherhrhrthrthrjrtjerttjrthrthrthrthrthrethrtehrthrethrthrtamesh",
+  "Rghdrhretherhrhrthrthrjrtjerttjwerwerwrwerwerwerrthrthrthrthrthrethrtehrthrethrthrtamesh",
   "Falkgrhfeorgherilouughreopighwerwerjeorighjoeirrjgoeirjgoe;rigjoerjgop;eirjg;eopirgjoe;ridatare"
 );
 console.log(employee);

@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.5.0...v1.5.1) (2022-09-28)
+
+
+### Bug Fixes
+
+* Aniket ([517919d](https://github.com/ANKDGIRI777/mypackage/commit/517919ddd6a3100c811080ff94dcecc7da670c79))
+
 # [1.5.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.4.1...v1.5.0) (2022-09-28)
 
 

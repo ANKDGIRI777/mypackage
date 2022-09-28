@@ -12,3 +12,8 @@ class UserAccount {
     this.id = id;
   }
 }
+
+const user: User = new UserAccount(
+  "Murpa;dfjhaswfhsfnolsfjhwaloijflokaenmfloiawehjfaejfh'lmf'apw ;jfmcp wufpowetuirsdashy",
+  1
+);

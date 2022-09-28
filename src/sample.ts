@@ -13,4 +13,4 @@ class UserAccount {
   }
 }
 
-const user: User = new UserAccount("Murphy", 1);
+const user: User = new UserAccount("Murpasdashy", 1);

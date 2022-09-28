@@ -10,5 +10,5 @@ class Person {
   }
 }
 
-const person = new Person("Jane");
+const person = new Person("Jdasdasdasane");
 console.log(person.getName());

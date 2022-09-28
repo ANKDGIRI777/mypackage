@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: npm run build
       - name: checking
-        run: echo ${{ secrets.NPM_TOKEN }}
+        run: echo "This is simple echo"
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

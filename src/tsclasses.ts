@@ -11,6 +11,6 @@ class Person {
 }
 
 const person = new Person(
-  "Jdasdaadasdasdsadhasidghwaifywosfhsal;dfgnas;dlfnaops;fturftwe'priuw'epofjkpw'ekf'w;ekf;'ekf['pewkf['pwekf[paeskf[sdasane"
+  "Jdasdaadasdasdsadhasidghwaifywosfhsal;dfgnas;dlfnadhafnal;ksfnoa;gjtp'wajfgp'awjgp'wajg'pwagjkp'rwjgk'prwjg'apwjgprjgpo;rjgo;irrjgoilrsjgo;isrrgjaops;fturftwe'priuw'epofjkpw'ekf'w;ekf;'ekf['pewkf['pwekf[paeskf[sdasane"
 );
 console.log(person.getName());

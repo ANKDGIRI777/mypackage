@@ -1,6 +1,6 @@
 {
   "name": "aniket-package",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "main": "lib/index.js",
   "repository": "https://github.com/ANKDGIRI777/mypackage.git",
   "author": "Aniket D. Giri <aniket.g@safe.security>",

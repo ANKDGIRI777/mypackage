@@ -10,7 +10,8 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "superhero-name-library": "^1.2.2"
+    "superhero-name-library": "^1.2.2",
+    "unleash-client-safe-security": "^1.0.1"
   },
   "scripts": {
     "build": "tsc"

@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.4.1...v1.5.0) (2022-09-28)
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([c31177c](https://github.com/ANKDGIRI777/mypackage/commit/c31177c18378e254425d52bf7a0cf4691a2cede3))
+* **pencil:** add 'graphiteWidth' option ([42b97b4](https://github.com/ANKDGIRI777/mypackage/commit/42b97b4e16edee54b76027013d2965122407078b))
+
 ## [1.4.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.4.0...v1.4.1) (2022-09-28)
 
 

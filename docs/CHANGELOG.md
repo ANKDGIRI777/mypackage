@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.4...v1.8.0) (2022-09-29)
+
+
+### Features
+
+* created an yarn package ([26aacc9](https://github.com/ANKDGIRI777/mypackage/commit/26aacc938a47722c624ca823d1e99550464d8762))
+
 ## [1.7.4](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.3...v1.7.4) (2022-09-28)
 
 

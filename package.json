@@ -15,12 +15,12 @@
     "unleash-client-safe-security": "^1.0.1"
   },
   "scripts": {
-    "build": "tsc",
-    "release": "npx semantic-release"
+    "build": "tsc"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "@types/node": "^18.7.23"
+    "@types/node": "^18.7.23",
+    "semantic-release": "^19.0.5"
   }
 }

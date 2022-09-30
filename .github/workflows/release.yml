@@ -22,13 +22,10 @@ jobs:
         run: npm install --save-dev @semantic-release/changelog @semantic-release/git
       - name: Build
         run: npm run build
+      - name: checking
+        run: echo "This is simple echo"
+      - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - name: checking
-        run: echo "This is simple echo"
-      # - name: Release
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      #   # run: yarn release
+        run: yarn release

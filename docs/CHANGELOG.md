@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/ANKDGIRI777/mypackage/compare/v1.8.1...v1.8.2) (2022-09-30)
+
+
+### Bug Fixes
+
+* change is done ([1ac21fe](https://github.com/ANKDGIRI777/mypackage/commit/1ac21fecd4722829a59cb0d75c150ba6842485f5))
+
 ## [1.8.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.8.0...v1.8.1) (2022-09-30)
 
 

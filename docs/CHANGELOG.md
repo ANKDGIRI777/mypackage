@@ -1,3 +1,12 @@
+## [1.8.1](https://github.com/ANKDGIRI777/mypackage/compare/v1.8.0...v1.8.1) (2022-09-30)
+
+
+### Bug Fixes
+
+* change is done ([e297056](https://github.com/ANKDGIRI777/mypackage/commit/e29705606fc0976391c2959401561eacd1e655ee))
+* change is done ([5108f97](https://github.com/ANKDGIRI777/mypackage/commit/5108f97fd642b43879c7a0085821235daa3b7602))
+* change is done ([b659455](https://github.com/ANKDGIRI777/mypackage/commit/b659455888e9cc15c0a77dea82c8a13fc6718815))
+
 # [1.8.0](https://github.com/ANKDGIRI777/mypackage/compare/v1.7.4...v1.8.0) (2022-09-29)
 
 
